@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @hollyda31
 - 👀 I’m interested in data analytics and front end dev
+- 💾 I code in HTML/CSS, PHP, JavaScript, React, SQL, R, and Python (a little bit).
 - 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on fun ideas!
-- 📫 How to reach me holly@hollyantle.com
+- 💼 I am currently OPEN TO WORK!
+- 📫 You can reach me at holly@hollyantle.com
 
 <!---
 hollyda31/hollyda31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
