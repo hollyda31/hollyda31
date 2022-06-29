@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hollyda31
 - 👀 I’m interested in data analytics and front end dev
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on fun ideas!
 - 📫 How to reach me holly@hollyantle.com
 
