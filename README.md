@@ -1,36 +1,16 @@
 - 👋 Hi, I’m @hollyda31
 - 👀 I’m interested in database architecture and data operations
 - 💾 I code in
-  - HTML/CSS
-  - PHP
-  - JavaScript
-  - React
-  - SQL
-  - R
-  - Python
-  - LINUX
-  - vim
+  - HTML/CSS, PHP, JavaScript, React, SQL, R, Python, LINUX
 - 🗃️ I work with the following databases:
-  - MySQL
-  - SQL
-  - Mongo DB
+  - MySQL, SQL, Mongo DB
 - 💻 I also work with:
   - AWS
-    - EC2
-    - S3
-    - IAM
-    - RDS
-    - VPC
-    - Lambda
-    - CloudTrail
-    - EB
-  - Git & GitHub (obviously!)
-  - Docker
-  - Kubernetes
-- 📚 I'm currently reading "Designing Data-Intensive Applications" by Martin Kleppman
-    - I just finished "The Pragmatic Programmer" - HIGHLY recommend!
+    - EC2, S3, IAM, RDS, VPC, Lambda, CloudTrail, EB
+  - Git & GitHub (obviously!), Docker, Kubernetes
+- 📚 I'm currently learning C++.
 - 💞️ I’m looking to collaborate on fun ideas!
-- 💼 I am currently a SWE, but I'm always interested in new projects!
+- 💼 I am currently going back to school but am interested in new projects.
 - 📫 You can reach me at holly@hollyantle.com
 
 <!---
