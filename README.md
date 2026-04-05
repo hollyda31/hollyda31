@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hollyda31
-- 👀 I’m interested in database architecture and data operations
+- 👀 I’m interested in AgTech
 - 💾 I code in
   - HTML/CSS, PHP, JavaScript, React, SQL, R, Python, LINUX
 - 🗃️ I work with the following databases:
@@ -8,9 +8,9 @@
   - AWS
     - EC2, S3, IAM, RDS, VPC, Lambda, CloudTrail, EB
   - Git & GitHub (obviously!), Docker, Kubernetes
-- 📚 I'm currently learning C++.
+- 📚 I'm currently in school for agriculture.
 - 💞️ I’m looking to collaborate on fun ideas!
-- 💼 I am currently going back to school but am interested in new projects.
+- 💼 I am currently going back to school with expected graduation December 2026.
 - 📫 You can reach me at holly@hollyantle.com
 
 <!---
